@@ -1,1 +1,2 @@
-# kusw_project2
+# 고려대학교 지능정보SW아카데미 1기 10조
+# 2번째 프로젝트 repository입니다.
