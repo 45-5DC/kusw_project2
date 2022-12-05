@@ -1,3 +1,6 @@
+# 시작 전 위 폴더에 다운해야할 파일
+https://drive.google.com/file/d/1CYRrofYqCXT5CgGGFIeylcJ0IiviSPu0/view?usp=share_link
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
